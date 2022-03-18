@@ -5,7 +5,7 @@ Quick collection of a few rofi configs I have created.
 ## Installation
 
 Clone this repo
-```git clone https://github.com/joni22u/rofi-themes```. 
+```git clone https://github.com/theepicdragons/rofi-themes```. 
 Then copy  the contents of folders into ```~/.config/rofi/```.
 
 Example
